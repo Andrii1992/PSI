@@ -1,0 +1,11 @@
+6 -15 
+przyopadkuw uzycia
+
+czasownik w trybie rozkazujacym rzeczownikiem
+
+czasownik musi spewnic cel uscase (wyszukaj  6)
+
+rzeczownik rozbic na zbiur pol (nazwa rok cena)
+
+musi byc struktura dannych 
+funkcyjalnosci od 5 do 15    
